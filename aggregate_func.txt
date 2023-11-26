@@ -1,0 +1,15 @@
+1000
+249085
+249.09
+500
+5
+
+The total number of donors in the database is 1000
+
+The sum of all donations in the database is 249085
+
+The average amount of donation rounded up to 2 decimal places is 249.09
+
+The  maximum amount donated is 500
+
+The minimum amount donated is 5
