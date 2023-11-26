@@ -1,0 +1,48 @@
+This shows that there are alot of states with less than 80 donors
+
+Maine|1
+South Dakota|1
+Wyoming|1
+North Dakota|2
+Alaska|3
+New Hampshire|3
+Hawaii|4
+Montana|4
+Mississippi|5
+New Jersey|6
+South Carolina|6
+West Virginia|6
+Delaware|7
+Idaho|7
+New Mexico|7
+Nebraska|8
+Arkansas|9
+Oregon|9
+Utah|9
+Kansas|10
+Alabama|11
+Maryland|11
+Connecticut|12
+Wisconsin|12
+Iowa|13
+Arizona|14
+Minnesota|14
+Kentucky|15
+Indiana|17
+Massachusetts|17
+Washington|17
+Michigan|20
+Oklahoma|20
+Colorado|22
+Louisiana|22
+Nevada|22
+Missouri|23
+Pennsylvania|23
+District of Columbia|30
+Tennessee|30
+Ohio|32
+Georgia|33
+North Carolina|33
+Illinois|34
+Virginia|39
+New York|58
