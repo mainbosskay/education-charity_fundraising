@@ -1,0 +1,20 @@
+INSIGHTS FROM ANALYSIS
+The following data sets were sent to me to help with the business problem: EFO_Donation_Data and EFO_Donor_Data. The data sets were queried and analysed using the SQLite Database Management System and visualisation of the analysed data were created using Tableau.
+Donation Dataset includes:
+• Id
+• First name
+• Last name
+• Email
+• Gender
+• Job field
+• Donations
+• State
+• Shirt size
+Donor Dataset includes:
+• Id
+• Donation frequency
+• University
+• Car
+• Second language
+• Favourite colour
+• Movie genre
