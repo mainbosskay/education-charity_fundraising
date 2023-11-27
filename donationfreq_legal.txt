@@ -1,0 +1,6 @@
+Legal|Once|22
+Legal|Weekly|11
+Legal|Monthly|16
+Legal|Yearly|17
+
+This shows most of the donors donated once and a minority of the donors donated Weekly
