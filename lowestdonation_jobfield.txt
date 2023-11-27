@@ -1,0 +1,14 @@
+Legal|17309
+Marketing|18255
+Sales|19009
+Support|19475
+Services|19858
+Accounting|20504
+Training|21721
+Engineering|21968
+Business Development|22266
+Product Management|22798
+Research and Development|22862
+Human Resources|23060
+
+This data shows that the Legal jobfield has the lowest amount of donations
