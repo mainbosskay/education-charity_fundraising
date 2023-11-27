@@ -1,0 +1,23 @@
+-- List of the top ten donations in Legal job field
+499|Female|Virginia|Yearly|Ford|Sparhawk|Legal
+483|Female|Pennsylvania|Monthly|Mazda||Legal
+468|Male|Oregon|Once|Chevrolet|Gorler|Legal
+467|Male|Mississippi|Weekly|||Legal
+449|Male|Florida|Weekly|Land Rover||Legal
+449|Female|Massachusetts|Yearly|Toyota|Markus|Legal
+444|Female|California|Once|Toyota|Petticrow|Legal
+440|Female|Kansas|Yearly|Chevrolet|Rudolf|Legal
+439|Female|Florida|Weekly|Cadillac|Turmel|Legal
+428|Female|Kansas|Once|Oldsmobile|Anglish|Legal
+
+-- Lis of the bottom ten donations in the legal job field
+25|Male|Alabama|Weekly|Mercury|Benzie|Legal
+30|Female|Idaho|Yearly|Cadillac||Legal
+40|Male|District of Columbia|Monthly|Cadillac|Dandison|Legal
+42|Male|Michigan|Once|Chevrolet|Halso|Legal
+51|Male|North Carolina|Monthly|Subaru||Legal
+72|Male|Mississippi|Once|Ford||Legal
+76|Male|North Carolina|Monthly|Chrysler|Crinkley|Legal
+77|Female|North Carolina|Once|Pontiac|Lennox|Legal
+80|Male|Ohio|Once|Infiniti||Legal
+83|Male|Texas|Monthly|GMC|Mark|Legal
