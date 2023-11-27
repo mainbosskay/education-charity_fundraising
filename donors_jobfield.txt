@@ -1,0 +1,5 @@
+Support|79
+Marketing|74
+Legal|66
+
+This that data shows that there are just three jobfields with less than 80 donors with Legal being the one with the list donors
