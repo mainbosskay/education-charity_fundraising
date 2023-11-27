@@ -1,0 +1,133 @@
+-- Females with no university degree
+Female|239||Product Management
+Female|234||Business Development
+Female|229||Product Management
+Female|228||Legal
+Female|220||Product Management
+Female|218||Accounting
+Female|217||Support
+Female|213||Training
+Female|212||Support
+Female|208||Product Management
+Female|205||Legal
+Female|200||Training
+Female|199||Services
+Female|197||Training
+Female|193||Engineering
+Female|190||Training
+Female|186||Business Development
+Female|182||Engineering
+Female|176||Training
+Female|169||Human Resources
+Female|165||Accounting
+Female|159||Sales
+Female|158||Engineering
+Female|154||Legal
+Female|154||Engineering
+Female|153||Business Development
+Female|152||Training
+Female|148||Business Development
+Female|146||Product Management
+Female|146||Product Management
+Female|145||Training
+Female|143||Accounting
+Female|140||Research and Development
+Female|135||Human Resources
+Female|134||Services
+Female|133||Training
+Female|126||Human Resources
+Female|123||Training
+Female|114||Business Development
+Female|108||Business Development
+Female|102||Sales
+Female|99||Human Resources
+Female|91||Accounting
+Female|89||Human Resources
+Female|87||Business Development
+Female|77||Research and Development
+Female|77||Marketing
+Female|72||Human Resources
+Female|69||Services
+Female|69||Services
+Female|65||Research and Development
+Female|60||Sales
+Female|59||Services
+Female|59||Support
+Female|58||Business Development
+Female|56||Marketing
+Female|51||Business Development
+Female|46||Research and Development
+Female|40||Human Resources
+Female|39||Marketing
+Female|39||Product Management
+Female|37||Research and Development
+Female|36||Business Development
+Female|33||Training
+Female|33||Services
+Female|30||Legal
+Female|30||Research and Development
+Female|29||Services
+Female|26||Sales
+Female|25||Marketing
+Female|17||Engineering
+Female|14||Product Management
+Female|10||Business Development
+Female|7||Product Management
+Female|5||Human Resources
+
+-- Males with no university degree
+Male|242||Product Management
+Male|242||Legal
+Male|227||Services
+Male|221||Legal
+Male|215||Sales
+Male|214||Human Resources
+Male|211||Training
+Male|211||Sales
+Male|210||Legal
+Male|197||Engineering
+Male|196||Business Development
+Male|194||Training
+Male|190||Business Development
+Male|187||Support
+Male|186||Services
+Male|182||Research and Development
+Male|177||Training
+Male|172||Services
+Male|169||Support
+Male|164||Engineering
+Male|161||Marketing
+Male|158||Legal
+Male|156||Support
+Male|152||Engineering
+Male|143||Business Development
+Male|141||Human Resources
+Male|137||Product Management
+Male|133||Accounting
+Male|130||Marketing
+Male|117||Legal
+Male|114||Support
+Male|112||Support
+Male|111||Accounting
+Male|105||Training
+Male|100||Product Management
+Male|93||Human Resources
+Male|81||Accounting
+Male|80||Legal
+Male|72||Legal
+Male|70||Accounting
+Male|64||Research and Development
+Male|57||Product Management
+Male|51||Legal
+Male|50||Accounting
+Male|48||Sales
+Male|47||Training
+Male|42||Engineering
+Male|31||Support
+Male|22||Sales
+Male|21||Sales
+Male|19||Human Resources
+Male|13||Engineering
+Male|9||Support
+Male|8||Human Resources
+Male|6||Services
